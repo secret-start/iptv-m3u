@@ -105,6 +105,8 @@ https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
 http://live.aptvapp.com/sxg.php?id=test1_4000
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" group-title="港澳台",翡翠台
 http://r.jdshipin.com/62WM7
 #EXTINF:-1,tvg-id="番薯" tvg-name="番薯" group-title="港澳台",番薯
