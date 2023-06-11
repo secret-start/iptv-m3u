@@ -203,6 +203,7 @@ http://r.jdshipin.com/62WM7
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="电影电视剧",4K超高清电影
 https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+http://159.75.85.63:5681/sxg.php
 
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="电影电视剧",东方影视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=OTT?
