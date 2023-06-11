@@ -9,7 +9,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/32212282
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8?IASHttpSessionId=OTT
+https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8?IASHttpSessionId=OTT
@@ -29,7 +30,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/32212282
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8?IASHttpSessionId=OTT
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8?IASHttpSessionId=OTT
+https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8?IASHttpSessionId=OTT
@@ -52,6 +54,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/32212282
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8?IASHttpSessionId=OTT
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
