@@ -54,8 +54,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/32212282
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000202603.m3u8?IASHttpSessionId=OTT
+https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8?IASHttpSessionId=OTT
