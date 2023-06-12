@@ -201,8 +201,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-202153516
 https://pull-l3-cny.douyincdn.com/live/YesLiveTV-147342b9-9ef0-41dc-95cb-3527b9b4edee.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰香港
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8?IASHttpSessionId=OTT
 http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8?IASHttpSessionId=OTT
+https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
