@@ -213,6 +213,10 @@ http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
 http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extension=ts&play_token=UEKTIim7lP
 
+#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="港澳台",澳门莲花
+https://p.ggiptv.com/v/macaulotustv.php
+http://lu1.cc/itv/gatv/lhws.php
+
 #EXTINF:-1,tvg-id="番薯" tvg-name="番薯" group-title="港澳台",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 
