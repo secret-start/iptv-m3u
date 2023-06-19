@@ -7,7 +7,7 @@
 
     "lives": [{"name": "live","type": 0,
             //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "url": "http://52bsj.vip:81/api/v3/file/get/132958/live.txt?sign=PPEk6HYG242fmTmQ3dXnIirvY9SiholFm19WNc7TwT8%3D%3A0",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/secret-start/iptv-m3u/main/iptv6.m3u",
             "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://epg.112114.xyz/logo/{name}.png"
         }],
