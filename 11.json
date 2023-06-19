@@ -14,7 +14,7 @@
 
     "sites": [
 
-
+{"key": "csp_WoGG","name": "玩偶4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/wgq332/tvt/raw/master/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
 {"key": "云云资源","name": "胜寒推荐","type": 1,"api": "http://1.ahailove.cn:23450/api.php/provide/vod","searchable": 1,"quickSearch": 1,"playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=","categories": ["电影","连续剧","综艺","动漫"]},
 
 {"key": "zy_量子资源", "name": "量子资源", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "categories": ["国产剧", "大陆综艺","国产动漫","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "纪录片",  "香港剧", "台湾剧", "韩国剧", "日本剧","泰国剧", "欧美剧", "日韩综艺", "港台综艺", "欧美综艺",  "日韩动漫", "欧美动漫", "港台动漫", "伦理片" ] },
