@@ -100,6 +100,7 @@ http://tv6.blcu.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/fa47
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8?IASHttpSessionId=OTT
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?IASHttpSessionId=OTT?virtualDomain=yinhe.live_hls.zte.com
 
 
