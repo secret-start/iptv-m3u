@@ -207,50 +207,6 @@ https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?IASHttpSessionId=OTT?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 
 
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?IASHttpSessionId=OTT
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-147342b9-9ef0-41dc-95cb-3527b9b4edee.m3u8?IASHttpSessionId=OTT
-
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="港澳台",凤凰香港
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8?IASHttpSessionId=OTT
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8?IASHttpSessionId=OTT
-
-#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐
-http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:45:5E:9A&extension=ts&stream=153505
-
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="港澳台",华视
-http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS
-http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156402&extension=ts&play_token=UEKTIim7lP
-
-#EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="港澳台",澳门莲花
-https://p.ggiptv.com/v/macaulotustv.php
-http://lu1.cc/itv/gatv/lhws.php
-
-#EXTINF:-1,tvg-id="番薯" tvg-name="番薯" group-title="港澳台",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-
-#EXTINF:-1 tvg-id="东风卫视" tvg-name="东风卫视" tvg-logo="https://epg.112114.xyz/logo/东风卫视.png" group-title="港澳台",东风卫视
-http://123.51.230.108:18560/.m3u8
-
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-
-百事通4K电影
-#EXTINF:-1,tvg-id="Bestv-4k" tvg-name="Bestv-4k" group-title="电影电视剧",Bestv-4k
-http://222.65.21.143:4022/udp/239.45.1.42:5140
-
-#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="电影电视剧",4K超高清电影
-https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-http://159.75.85.63:5681/sxg.php
-
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="电影电视剧",东方影视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?IASHttpSessionId=OTT?
-
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影电视剧",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?IASHttpSessionId=OTT?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影电视剧",CHC家庭影院
@@ -265,8 +221,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="OAN" tvg-name="OAN" group-title="国际",OAN (1080p)
-http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="日·NHK" tvg-name="日·NHK" group-title="国际",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel News Asia" group-title="国际",Channel News Asia『蓝光』
