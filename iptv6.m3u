@@ -177,9 +177,4 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="金砖中文" tvg-name="金砖中文" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png" group-title="国际",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHKWORLD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="日·NHK" tvg-name="日·NHK" group-title="国际",日·NHK
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="Channel News Asia" tvg-name="Channel News Asia" group-title="国际",Channel News Asia『蓝光』
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
